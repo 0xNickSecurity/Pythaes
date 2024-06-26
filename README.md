@@ -19,7 +19,7 @@
 This project is a simple encryption tool named "PYTHAES" (acronym for "PYThon Highly Advanced Encryption Standard") and offers various standard encryption features.
 **NOTE: the tool is still in beta version and new features will probably be released in the future.**
 
-## Tested on:
+## Tested on 🖥️
 - **Debian**
 - **Ubuntu**
 - **Microsoft Windows 10**
