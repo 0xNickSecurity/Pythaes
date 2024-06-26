@@ -22,7 +22,8 @@ This project is a simple encryption tool named "PYTHAES" (acronym for "PYThon Hi
 ## Tested on:
 - **Debian**
 - **Ubuntu**
-- **Microsoft Windows 10**sh
+- **Microsoft Windows 10**
+
 this tool can be run on any operating system with python3 installed and which accepts the libraries with the corresponding versions present in the [requirements.txt](requirements.txt) file.
 
 ## Features 💻✨
