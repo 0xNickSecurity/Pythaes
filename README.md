@@ -66,6 +66,7 @@ This project is licensed under the MIT License. For more information, please ref
 ## Contact 📱
 
 For any inquiries or questions, please contact us on telegram: %SystemRoot% and LukeSecurity.
+
 telegram group: [ZeroSquad](https://t.me/+nFBMi1IISikzMGZk)
 
 #### Created by 0xNickSecurity and LUKE6044 
