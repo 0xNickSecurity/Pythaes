@@ -14,8 +14,6 @@
 - [License](#license)
 - [Contact](#contact)
 
-#### Created by 0xNickSecurity and LUKE6044 
-
 ## Introduction 🌠🌠
 
 This project is a simple encryption tool named "PYTHAES" (acronym for "PYThon Highly Advanced Encryption Standard") and offers various standard encryption features.
@@ -63,3 +61,4 @@ This project is licensed under the MIT License. For more information, please ref
 For any inquiries or questions, please contact us on telegram: %SystemRoot% and LukeSecurity.
 telegram group: [ZeroSquad](https://t.me/+nFBMi1IISikzMGZk)
 
+#### Created by 0xNickSecurity and LUKE6044 
