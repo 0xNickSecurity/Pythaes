@@ -63,5 +63,5 @@ This project is licensed under the MIT License. For more information, please ref
 
 ## Contact
 
-For any inquiries or questions, please contact us on telegram: [%SystemRoot%] and [LukeSecurity].
+For any inquiries or questions, please contact us on telegram: %SystemRoot% and LukeSecurity.
 
