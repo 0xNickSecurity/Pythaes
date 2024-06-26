@@ -7,8 +7,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -49,14 +47,7 @@ To install and set up this project, follow these steps:
     ```sh
     yarn install
     ```
-
-## Usage
-
-To use this project, just type in your shell:
-    ```
-    python3 pythaes.py
-    ```
-
+    
 ## License
 
 This project is licensed under the MIT License. For more information, please refer to the [LICENSE.txt](LICENSE.txt) file.
