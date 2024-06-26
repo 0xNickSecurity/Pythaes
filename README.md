@@ -33,7 +33,7 @@ To install and set up this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/project-name.git
+    git clone https://github.com/0xNickSecurity/Pythaes.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -41,11 +41,11 @@ To install and set up this project, follow these steps:
     ```
 3. Install the necessary dependencies:
     ```sh
-    npm install
+    pip install -r requirements.txt
     ```
-    or if you are using `yarn`:
+4. Start the tool and encrypt the world:
     ```sh
-    yarn install
+    python3 pythaes.py
     ```
     
 ## License
