@@ -1,6 +1,7 @@
 # 𝙋 𝙔 𝙏 𝙃 𝘼 𝙀 𝙎
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt) [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
 
 ![Example Image](images/pythaes.png)
 
