@@ -14,13 +14,20 @@
 
 ## Introduction
 
-Project Name is a brief description of what your project does. It provides an overview of the main features and functionalities.
+This project is a simple encryption tool named "PYTHAES" (acronym for "PYThon Highly Advanced Encryption Standard") and offers various standard encryption features.
+NOTE: the tool is still in beta version and new features will probably be released in the future.
 
 ## Features
 
-- **Feature 1**: Brief description of feature 1.
-- **Feature 2**: Brief description of feature 2.
-- **Feature 3**: Brief description of feature 3.
+### Encryption
+- **Feature 1**: encrypt a phrase.
+- **Feature 2**: encrypt a whole directory.
+- **Feature 3**: encrypt a whole directory with his subdirectories.
+
+### Decryption
+- **Feature 4**: decrypt a phrase
+- **Feature 5**: decrypt a whole directory
+- **Feature 6**: decrypt a whole directory with his subdirectories.
 
 ## Installation
 
@@ -32,7 +39,7 @@ To install and set up this project, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd project-name
+    cd Pythaes
     ```
 3. Install the necessary dependencies:
     ```sh
@@ -45,39 +52,10 @@ To install and set up this project, follow these steps:
 
 ## Usage
 
-To use this project, follow these steps:
-
-1. Start the development server:
-    ```sh
-    npm start
+To use this project, just type in your shell:
     ```
-    or if you are using `yarn`:
-    ```sh
-    yarn start
+    python3 pythaes.py
     ```
-
-2. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-We welcome contributions to this project. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature/YourFeatureName
-    ```
-3. Make your changes and commit them:
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature/YourFeatureName
-    ```
-5. Open a pull request.
-
-Please make sure your code adheres to the project's coding standards and includes appropriate tests.
 
 ## License
 
@@ -85,5 +63,5 @@ This project is licensed under the MIT License. For more information, please ref
 
 ## Contact
 
-For any inquiries or questions, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact us on telegram: [%SystemRoot%] and [LukeSecurity].
 
